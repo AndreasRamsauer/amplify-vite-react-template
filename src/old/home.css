@@ -1,0 +1,20 @@
+.Überschrift{
+    background-color: #0C4B33;
+    font-family: "Arial";
+    font-size: xxx-large;
+    margin-top: auto;
+    top: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+  }
+  .Ergebniss{
+    display: flexbox;
+    border-style: solid;
+    padding: 10px;
+    list-style: none;
+  }
+  
+  .searchbar{
+    padding-left: 10px;
+  }

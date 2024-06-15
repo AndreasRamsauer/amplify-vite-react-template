@@ -1,0 +1,29 @@
+
+  .testing{
+    text-align: center;
+  }
+  .Tabelle {
+    align-items: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: larger;
+    border: 1px solid;
+  
+  }
+  
+  td{
+    padding-inline: 2em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    border: 1px solid;
+  }
+  
+  input{
+    font-size: medium;
+  }
+
+  .Tablediv{
+    flex-grow: 1;
+    justify-content: center;
+  }

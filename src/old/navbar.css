@@ -1,0 +1,34 @@
+.Navbar{
+    background-color: #0C4B33;
+    width: 160px;
+    height: 100%;
+    top: 0;
+    position: fixed;
+  }
+  .Navbartext{
+    padding: 0;
+    width: 100%;
+    background-color: #0C4B33;
+    font-size: large;
+    padding-top: 1em;
+    list-style: none;
+    text-align: center;
+  }
+  
+  .Navbartext a{
+    color:gold;
+    cursor:pointer;
+  }
+
+  .Navopen{
+    width: 3em;
+    height: 3em;
+    display: flex;
+    margin-left: 1em;
+    margin-top: 0.5em;
+  }
+  
+  .NaviTab{
+    display: flex;
+    padding-top: 3em;
+  }
